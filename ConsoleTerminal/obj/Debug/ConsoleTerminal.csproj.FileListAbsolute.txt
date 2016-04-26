@@ -1,0 +1,8 @@
+D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\bin\Debug\ConsoleTerminal.exe.config
+D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\obj\Debug\ConsoleTerminal.csprojResolveAssemblyReference.cache
+D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\bin\Debug\ConsoleTerminal.exe
+D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\bin\Debug\ConsoleTerminal.pdb
+D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\obj\Debug\ConsoleTerminal.exe
+D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\obj\Debug\ConsoleTerminal.pdb
+D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\bin\Debug\Newtonsoft.Json.dll
+D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\bin\Debug\Newtonsoft.Json.xml

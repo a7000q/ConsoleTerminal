@@ -1,0 +1,383 @@
+25.04.2016 8:43:26  Пистолет поднят
+25.04.2016 8:43:26  Счетчик: 422765,07
+25.04.2016 8:43:26  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:28  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:28  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:28  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:29  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:29  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:30  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:30  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:31  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:31  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:32  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:33  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:33  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:34  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:34  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:35  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:35  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:36  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:36  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:37  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:37  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:38  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:38  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:39  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:39  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:39  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:40  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:40  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:41  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:41  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:42  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:42  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:43  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:43  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:44  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:44  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:45  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:45  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:45  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:46  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:46  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:47  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:47  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:48  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:48  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:49  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:49  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:49  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:50  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:50  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:51  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:51  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:52  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:52  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:53  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:53  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:54  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:54  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:55  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:56  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:56  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:57  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:57  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:58  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:58  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:59  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:43:59  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:44:00  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:44:00  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:44:01  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:44:01  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:44:02  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:44:02  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:44:03  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:44:03  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:44:04  CardReader Port NOT OpenSystem.IO.IOException: Порт 'COM48' не существует.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 164
+25.04.2016 8:44:07  Пистолет повешен

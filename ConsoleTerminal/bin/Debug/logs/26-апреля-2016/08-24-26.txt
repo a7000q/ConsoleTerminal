@@ -1,0 +1,19 @@
+26.04.2016 8:24:28  Пистолет поднят
+26.04.2016 8:24:28  Счетчик: 422765,07
+26.04.2016 8:24:34  Ошибка чтения из считывателя: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.get_BytesToRead()
+   в ConsoleTerminal.cardReader.CardReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 68
+26.04.2016 8:24:46  Ошибка чтения из считывателя: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.get_BytesToRead()
+   в ConsoleTerminal.cardReader.CardReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 68
+26.04.2016 8:24:47  Ошибка чтения из считывателя: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.get_BytesToRead()
+   в ConsoleTerminal.cardReader.CardReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 68
+26.04.2016 8:24:48  CardReader Port NOT OpenSystem.UnauthorizedAccessException: Доступ к порту 'COM48' закрыт.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 165
+26.04.2016 8:24:48  Ошибка чтения из считывателя: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.get_BytesToRead()
+   в ConsoleTerminal.cardReader.CardReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 68

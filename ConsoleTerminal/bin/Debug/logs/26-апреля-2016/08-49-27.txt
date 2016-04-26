@@ -1,0 +1,20 @@
+26.04.2016 8:49:29  Пистолет поднят
+26.04.2016 8:49:29  Счетчик: 422765,07
+26.04.2016 8:49:32 00-51-53-3C CardReader Port NOT OpenSystem.UnauthorizedAccessException: Доступ к порту 'COM48' закрыт.
+   в System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   в System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   в System.IO.Ports.SerialPort.Open()
+   в ConsoleTerminal.cardReader.readerOpen() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\cardReader.cs:строка 173
+26.04.2016 8:49:33 00-51-53-3C Запрос terminalFuelStep1  осуществлен
+26.04.2016 8:49:33 00-51-53-3C Запрос setCounterLitr  осуществлен
+26.04.2016 8:49:33 00-51-53-3C Ответ terminalFuelStep1  status=ok
+26.04.2016 8:49:33 00-51-53-3C Запрос terminalFuelStep2  осуществлен
+26.04.2016 8:49:33 00-51-53-3C Ответ terminalFuelStep2  status=ok
+26.04.2016 8:49:35 00-51-53-3C Заправка началась
+26.04.2016 8:49:52 00-51-53-3C Пистолет повешен
+26.04.2016 8:49:55 00-51-53-3C Заправлено 000,00 лит.
+26.04.2016 8:49:55 00-51-53-3C Запрос fuelBackStep1  осуществлен
+26.04.2016 8:49:55 00-51-53-3C Ответ fuelBackStep1 status=ok
+26.04.2016 8:49:56  Запрос fuelBackStep2  осуществлен
+26.04.2016 8:49:56  Ответ fuelBackStep2  status=ok
+26.04.2016 8:49:56  Данные отправлены и успешно обработаны

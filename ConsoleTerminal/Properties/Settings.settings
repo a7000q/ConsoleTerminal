@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleTerminal.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="typeTrk" Type="System.String" Scope="User">
+      <Value Profile="(Default)">topaz</Value>
+    </Setting>
+    <Setting Name="portTrk" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM13</Value>
+    </Setting>
+    <Setting Name="addressTrk" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="idTerminal" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="urlServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://136.243.92.77/</Value>
+    </Setting>
+    <Setting Name="portCard" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM48</Value>
+    </Setting>
+    <Setting Name="typeCard" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hz-1050</Value>
+    </Setting>
+    <Setting Name="maxDoza" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">990</Value>
+    </Setting>
+    <Setting Name="nozleTrk" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">49</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

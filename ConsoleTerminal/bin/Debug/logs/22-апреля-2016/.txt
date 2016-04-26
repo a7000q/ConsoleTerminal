@@ -1,0 +1,904 @@
+22.04.2016 9:34:07  Заправка началась
+22.04.2016 9:34:09  Пистолет повешен
+22.04.2016 9:34:24  Пистолет повешен
+22.04.2016 10:27:54  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:27:54  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:27:56  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:27:57  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:27:58  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:27:59  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:00  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:01  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:01  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:02  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:03  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:05  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:06  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:07  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:08  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:09  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:10  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:11  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:12  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:13  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:14  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:15  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:16  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:17  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:18  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:19  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:20  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:21  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:22  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:23  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:24  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:25  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:26  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:27  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:28  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:29  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:30  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:31  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:32  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:33  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:34  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:35  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:36  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:37  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:38  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:39  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:40  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:41  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:42  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:43  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:44  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:45  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:46  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:47  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:48  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:49  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:50  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:51  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:52  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:53  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:54  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:55  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:56  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:57  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:58  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:28:59  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:00  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:01  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:02  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:03  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:04  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:05  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:06  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:07  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:08  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:09  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:10  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:11  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:12  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:13  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:14  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:15  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:16  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:17  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:18  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:19  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:20  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:21  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:22  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:23  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:24  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:25  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:26  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:27  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:28  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:29  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:30  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:31  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 10:29:32  Ошибка записи в SerialPort: System.InvalidOperationException: Порт закрыт.
+   в System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   в ConsoleTerminal.serialTopaz.workWriteCommand() в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 88
+22.04.2016 15:57:56  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:57:58  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:57:58  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:57:58  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:57:59  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:57:59  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:00  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:01  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:01  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:01  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:02  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:03  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:04  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:04  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:06  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:07  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:08  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:08  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:09  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:10  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:11  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:11  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:12  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:13  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:13  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:14  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:15  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:15  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:16  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:16  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:17  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:17  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:18  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:19  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:20  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:20  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:21  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:21  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:22  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:23  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:24  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:24  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:25  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:26  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:26  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:27  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:28  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:28  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:29  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:29  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:30  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:30  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:31  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:31  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:32  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:32  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:33  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:34  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:34  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:35  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:35  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:36  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:36  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:37  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:37  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:38  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:39  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:39  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:40  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:58:41  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:29  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:30  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:31  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:32  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:32  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:32  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:33  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:33  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:34  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:35  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:35  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:36  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:36  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:36  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:37  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:38  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:39  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:39  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:40  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:40  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:41  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:41  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:42  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:42  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:43  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:44  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:44  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:45  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:46  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:46  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:47  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:47  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:48  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:48  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:49  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:49  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:50  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:51  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:52  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:52  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:53  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:53  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:54  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:54  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:55  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:56  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:56  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:57  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:58  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:58  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 15:59:59  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:00  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:00  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:01  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:01  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:02  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:02  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:03  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:03  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:04  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:05  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:05  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:06  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:07  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:07  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:08  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:08  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:09  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:09  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:10  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:10  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:11  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:11  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:12  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:12  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:13  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:13  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:14  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:14  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:15  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
+22.04.2016 16:00:16  Ошибка чтения из SerialPort: System.InvalidOperationException: Очередь пуста.
+   в System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   в System.Collections.Generic.Queue`1.Peek()
+   в ConsoleTerminal.serialTopaz.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) в D:\Rail\c#\projects\ConsoleTerminal\ConsoleTerminal\serialTopaz.cs:строка 69
